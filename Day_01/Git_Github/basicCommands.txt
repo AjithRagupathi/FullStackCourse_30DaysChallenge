@@ -1,0 +1,19 @@
+git is a version control software 
+
+1) to initiate git repository in a directory or a folder you have to use this command "git init"
+
+2) In git there to understand its functionality it has three space
+	i) Working Space 
+	ii) Staging area
+	iii) repository area
+3) working area is the space you do actual works such as writing code making new files or editing it 
+   stating is the next place and its before commiting your work in to the repository on your local or remote repository 
+here you will use some commands such as 
+	"git add ."-> this command will stage all the files in the current folder or current working directory 
+	"git add filename "it will stage the particular file to  the satging area
+	"git status" -> this will help to find the satus of the files that are staged or not and commited or not
+4)  The repostory area here you can get the actual commiting your file and its the final process also
+	"git commit -m"this is initial commit" "-> this command will commit your file and it will show the response top
+	"git log"this command will show what time and who did the commit with a unique'hash value '
+5) you can roll back to the previous version by using the following command
+	"git checkout filename"this will roll back your file 
