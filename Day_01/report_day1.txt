@@ -1,0 +1,6 @@
+on day 1  recall some of the topics related to html
+ 1- definition of html
+ 2- html heading tags
+ 3- html paragraph tags 
+ 4- html self closing tags 
+ 5- simple movie recomendation html page with all the above html elements 
