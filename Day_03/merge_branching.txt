@@ -1,0 +1,9 @@
+branching is the concept that use to reduce conglicts and complexity of code 
+
+    command "git branch branch_name"
+                |-> this will create a new branch.
+            "git checkout branch_name"
+	        |-> this will change the current working branch.
+	    "git merge branch_name"
+	    	|-> this will merge your brach to main.
+
