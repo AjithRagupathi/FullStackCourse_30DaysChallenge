@@ -1,0 +1,6 @@
+  Today i gone through about git pull request and how to fork a repo 
+
+  these things are done through github 
+  1 - fork a repo 
+  2 - then clone it to local or make some edit online also them commit it 
+  3 - make pull request from a different branch and if the author of the repor or admin accepts your changes or new feature / bug fixing they will merge it with there main branch thats it..

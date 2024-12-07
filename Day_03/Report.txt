@@ -1,0 +1,10 @@
+cm to clone a rept is 
+	"git clone url(https://git.reponame)" 
+it simple as it see thats it 
+
+ by clone some one project you can make some changes or fix some bugs its up to you
+
+
+
+branching and merging
+----------------------
